@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Data Ingestion",
+            "name": "Python: Data Processor",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/src/data_ingestions.py",
+            "program": "${workspaceFolder}/src/document_processor_gpu.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "cwd": "${workspaceFolder}",
