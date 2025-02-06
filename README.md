@@ -145,7 +145,7 @@ streamlit run src/chat_interface.py
 
 ## Support and Documentation
 
-- For technical details, see [blog post](blog.md)
+- For technical details, see [blog post](https://www.jonroosevelt.com/post/building-an-enterprise-grade-rag-system-a-deep-dive-into-advanced-document-intelligence)
 - For issues or questions, please open a GitHub issue
 - For contributions, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
