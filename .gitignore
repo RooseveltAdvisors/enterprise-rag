@@ -1,0 +1,6 @@
+runtime*
+.env
+*.log
+figures
+data/*
+__pycache__
